@@ -17,13 +17,13 @@ Solen Makonnen
 Richard Mauzy  
 
 
-- **Milestone Links**</br>  
-- _Milestone 1_</br>  
-- _Milestone 2_</br>  
+- **Milestone Links**
+- _Milestone 1_
+- _Milestone 2_
 
-  [Summary Video](https://youtu.be/xBJWl1Wg8qE)</br>  
+  [Summary Video](https://youtu.be/xBJWl1Wg8qE)
   
-  [Deliverable Report](HCI_term_project/HCI Milestone 2.pdf)</br>  
+  [Deliverable Report](/HCI Milestone 2.pdf)
 - _Milestone 3_  
 
 
