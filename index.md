@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Security Dawgs!
 
 You can use the [editor on GitHub](https://github.com/nmauzy2/HCI_term_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,21 +9,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- **Milestone Links**
+- _Mulestone 1_
+- _Milestone 2_
+  [Summary Video](https://youtu.be/xBJWl1Wg8qE)
+  [Deliverable Report](https://docs.google.com/document/d/1QSBUsMhQdNGpmuu1BbP1vwOjz7jB8Qbb3nxFWsXmxNo/edit?usp=sharing)
+- _Milestone 3_
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
