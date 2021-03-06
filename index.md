@@ -15,7 +15,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
   [Summary Video](https://youtu.be/xBJWl1Wg8qE)
   
-  [Deliverable Report](HCI Milestone 2.pdf)
+  [Deliverable Report](/HCI Milestone 2.pdf)
 - _Milestone 3_
 
 
