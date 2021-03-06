@@ -8,14 +8,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 - **Milestone Links**
 - _Mulestone 1_
 - _Milestone 2_
   [Summary Video](https://youtu.be/xBJWl1Wg8qE)
   [Deliverable Report](https://docs.google.com/document/d/1QSBUsMhQdNGpmuu1BbP1vwOjz7jB8Qbb3nxFWsXmxNo/edit?usp=sharing)
 - _Milestone 3_
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
