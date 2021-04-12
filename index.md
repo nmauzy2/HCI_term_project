@@ -25,7 +25,7 @@ Richard Mauzy
   
   [Deliverable Report](/HCI Milestone 2.pdf)
 - _Milestone 3_  
-[Summary Video]
+[Summary Video](https://youtu.be/xBJWl1Wg8qE)
 [Deliverable Report](/HCI Milestone 3.pdf)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
