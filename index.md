@@ -33,7 +33,7 @@ Richard Mauzy
 - _Milestone 4_  
   [Summary Video](https://youtu.be/AcTt_OrBGC0)  
   
-  [Deliverable Report](/HCI Milestone 4.pdf)  
+  [Deliverable Report](/Milestone 4.pdf)  
   
   _Fair Use Notice_  
   This site may contain copyrighted material the use of which has not always been specifically authorized by the copyright owner. Such material is made available to advance understanding of ecological, political, human rights, economic, democracy, scientific, moral, ethical, and social justice issues, etc. It is believed that this constitutes a 'fair use' of any such copyrighted material as provided for in section 107 of the US Copyright Law. In accordance with Title 17 U.S.C. Section 107, this material is distributed without profit to those who have expressed a prior general interest in receiving similar information for research and educational purposes. For more information go to: http://www.law.cornell.edu/uscode/17/107.shtml  If you wish to use copyrighted material for purposes of your own that go beyond 'fair use', you must obtain permission from the copyright owner.  
